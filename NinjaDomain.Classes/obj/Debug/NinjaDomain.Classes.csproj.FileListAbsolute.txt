@@ -8,3 +8,9 @@ C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Class
 C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache
 C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
 C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
+C:\Users\ldazu\Source\Repos\Git\ASP.NET-Entity-Framework-6\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\ldazu\Source\Repos\Git\ASP.NET-Entity-Framework-6\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\ldazu\Source\Repos\Git\ASP.NET-Entity-Framework-6\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache
+C:\Users\ldazu\Source\Repos\Git\ASP.NET-Entity-Framework-6\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+C:\Users\ldazu\Source\Repos\Git\ASP.NET-Entity-Framework-6\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\Users\ldazu\Source\Repos\Git\ASP.NET-Entity-Framework-6\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
