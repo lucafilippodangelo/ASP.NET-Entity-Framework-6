@@ -1,0 +1,10 @@
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb

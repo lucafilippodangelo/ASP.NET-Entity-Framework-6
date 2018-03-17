@@ -1,0 +1,30 @@
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
+C:\Users\Luca\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.datetimeAdded.resources
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.datetimeAdded.resources
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\TFS.ldazure\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
